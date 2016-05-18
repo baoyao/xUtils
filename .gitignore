@@ -52,7 +52,7 @@ ant.properties
 build.xml
 map.txt
 
-
+.gitignore~
 
 
 
