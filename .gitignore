@@ -53,40 +53,6 @@ build.xml
 map.txt
 
 
-xUtils3.3.34_for_android_studio/bin/
-xUtils3.3.34_for_android_studio/gen/
-xUtils3.3.34_for_android_studio/out/
-
-xUtils3.3.34_for_android_studio/.gradle/
-xUtils3.3.34_for_android_studio/gradle/
-xUtils3.3.34_for_android_studio/build/
-xUtils3.3.34_for_android_studio/gradlew*
-
-xUtils3.3.34_for_android_studio/proguard/
-
-xUtils3.3.34_for_android_studio/.idea/
-
-
-
-
-xUtils3.3.34_for_eclipse/xUtils3_sample/bin/
-xUtils3.3.34_for_eclipse/xUtils3_sample/gen/
-xUtils3.3.34_for_eclipse/xUtils3_sample/out/
-
-
-xUtils3.3.34_for_eclipse/xUtils3_lib/bin/
-xUtils3.3.34_for_eclipse/xUtils3_lib/gen/
-xUtils3.3.34_for_eclipse/xUtils3_lib/out/
-
-xUtils3.3.34_for_eclipse/android.support.v7.appcompat/bin/
-xUtils3.3.34_for_eclipse/android.support.v7.appcompat/gen/
-xUtils3.3.34_for_eclipse/android.support.v7.appcompat/out/
-
-
-
-xUtils3.3.34_for_eclipse/design/bin/
-xUtils3.3.34_for_eclipse/design/gen/
-xUtils3.3.34_for_eclipse/design/out/
 
 
 
