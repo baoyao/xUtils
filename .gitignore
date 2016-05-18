@@ -32,7 +32,7 @@ proguard/
 # Eclipse project files
 .classpath
 .project
-project.properties
+#project.properties
 
 # IDEA project files
 *.iml
