@@ -1,5 +1,6 @@
 package org.xutils.sample;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
@@ -8,6 +9,7 @@ import org.xutils.x;
 /**
  * Created by wyouflf on 15/11/4.
  */
+@SuppressLint("NewApi")
 public class BaseActivity extends AppCompatActivity {
 
     @Override
